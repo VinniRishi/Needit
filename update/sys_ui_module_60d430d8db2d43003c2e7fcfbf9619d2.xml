@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Needit Task!">e8d430d8db2d43003c2e7fcfbf9619cf</application>
+        <application display_value="Needit Task">e8d430d8db2d43003c2e7fcfbf9619cf</application>
         <filter/>
         <name>Needit Tasks</name>
         <order/>
